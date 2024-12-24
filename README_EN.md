@@ -1,7 +1,7 @@
 ## About me
-- 🇨🇳 Advantech Software Developer
+- 🇨🇳 Software developer from CHINA
 - 🔭 I’m currently working on Advantech
-- 🌱 I’m currently learning LLM Agent (using LangChain)
+- 🌱 I’m currently learning LLM Agent (using LangChain) / ROS2 and Pytorch
 
 <!--
 **JuziHuayu/JuziHuayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
