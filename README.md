@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About me
+- 🇨🇳 Advantech Software Developer
 - 🔭 I’m currently working on Advantech
 - 🌱 I’m currently learning LLM Agent (using LangChain)
 
