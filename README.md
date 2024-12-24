@@ -1,7 +1,7 @@
-## About me
-- 🇨🇳 Advantech Software Developer
-- 🔭 I’m currently working on Advantech
-- 🌱 I’m currently learning LLM Agent (using LangChain)
+## 关于我    [About me] (README_EN.md)
+- 🇨🇳 一名中国开发者
+- 🔭 当前供职于 **研华科技**
+- 🌱 最近正在学习 LLM Agent (使用 LangChain) / ROS2 / Pytorch
 
 <!--
 **JuziHuayu/JuziHuayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
