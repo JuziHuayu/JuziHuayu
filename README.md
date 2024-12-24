@@ -1,4 +1,4 @@
-## 关于我    [About me] (README_EN.md)
+## 关于我    [About me](README_EN.md)
 - 🇨🇳 一名中国开发者
 - 🔭 当前供职于 **研华科技**
 - 🌱 最近正在学习 LLM Agent (使用 LangChain) / ROS2 / Pytorch
