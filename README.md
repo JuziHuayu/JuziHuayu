@@ -1,6 +1,6 @@
 ## 关于我    [About me](README_EN.md)
 - 🐼 一名中国开发者
-- 🔭 当前供职于 **研华科技**
+- 🔭 当前供职于 **苏州咖博士**
 - 🌱 最近正在学习 LLM Agent (使用 LangChain) / ROS2 / Pytorch
 - 🛠 使用 NVIDIA Jetson 软硬件平台
 
